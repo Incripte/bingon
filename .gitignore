@@ -1,0 +1,10 @@
+# Automatically created by mypy
+
+**/__pycache__
+.pytest_cache
+venv
+.venv
+storage.db
+.package-lock.json
+/shelf/
+/workspace.xml

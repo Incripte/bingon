@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/*.pyc": {"when": "$(basename).py"},
+        "**/__pycache__": true,
+        "**/*.pytest_cache": true,
+        "**/*.mypy_cache": true,
+        "package-lock.json": true,
+        "package.json": true,
+        ".idea": true,
+        "node_modules": true,
+    }
+}
